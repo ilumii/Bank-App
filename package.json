@@ -1,6 +1,6 @@
 {
   "name": "bank-app",
-  "homepage": "https://ilumii.github.io/bank-app/",
+  "homepage": "http://ilumii.github.io/bank-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
