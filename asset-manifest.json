@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bank-app/static/css/main.3c9b6c01.chunk.css",
-    "main.js": "/bank-app/static/js/main.5d058d6d.chunk.js",
-    "main.js.map": "/bank-app/static/js/main.5d058d6d.chunk.js.map",
+    "main.js": "/bank-app/static/js/main.abb25125.chunk.js",
+    "main.js.map": "/bank-app/static/js/main.abb25125.chunk.js.map",
     "runtime~main.js": "/bank-app/static/js/runtime~main.fade555e.js",
     "runtime~main.js.map": "/bank-app/static/js/runtime~main.fade555e.js.map",
     "static/js/2.bcae1836.chunk.js": "/bank-app/static/js/2.bcae1836.chunk.js",
     "static/js/2.bcae1836.chunk.js.map": "/bank-app/static/js/2.bcae1836.chunk.js.map",
     "index.html": "/bank-app/index.html",
-    "precache-manifest.4f56fa5cf75f7c5c8856636b9bb24c2b.js": "/bank-app/precache-manifest.4f56fa5cf75f7c5c8856636b9bb24c2b.js",
+    "precache-manifest.54a9c6baced160e3b6797ee28e73bca0.js": "/bank-app/precache-manifest.54a9c6baced160e3b6797ee28e73bca0.js",
     "service-worker.js": "/bank-app/service-worker.js",
     "static/css/main.3c9b6c01.chunk.css.map": "/bank-app/static/css/main.3c9b6c01.chunk.css.map"
   }
